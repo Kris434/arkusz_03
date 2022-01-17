@@ -1,0 +1,48 @@
+body {
+    font-family: Arial;
+}
+
+header div, footer div {
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+}
+
+section {
+    background-color: snow;
+    padding: 70px;
+    float: left;
+}
+
+footer {
+    clear: both;
+}
+
+.lewy {
+    width: 55%;
+    font-size: 120%;
+    float: left;
+}
+
+.srodek {
+    width: 25%;
+    float: left;
+}
+
+.prawy {
+    width: 20%;
+    text-align: right;
+    float: left;
+}
+
+a {
+    border: 2px dotted saddlebrown;
+    background-color: snow;
+    color: saddlebrown;
+    padding: 20px;
+    line-height: 100px;
+}
+
+ol li {
+    list-style-type: lower-alpha;
+}
